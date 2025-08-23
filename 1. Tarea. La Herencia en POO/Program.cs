@@ -1,3 +1,6 @@
+// Tarea: La Herencia en POO
+// Jesús David Diaz Henao
+
 using System;
 
 namespace ProyectoFiguras
