@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\bin\Debug\_2.Taller.Aplicación_herencia_y_polimorfismo.exe.config
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\bin\Debug\_2.Taller.Aplicación_herencia_y_polimorfismo.exe
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\bin\Debug\_2.Taller.Aplicación_herencia_y_polimorfismo.pdb
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\obj\Debug\2. Taller. Aplicación herencia y polimorfismo.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\obj\Debug\2. Taller. Aplicación herencia y polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\obj\Debug\_2.Taller.Aplicación_herencia_y_polimorfismo.exe
+C:\Users\pc\Documents\Ejercicios\2. Taller. Aplicación herencia y polimorfismo\2. Taller. Aplicación herencia y polimorfismo\obj\Debug\_2.Taller.Aplicación_herencia_y_polimorfismo.pdb
