@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\bin\Debug\TareaConexionBD.exe.config
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\bin\Debug\TareaConexionBD.exe
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\bin\Debug\TareaConexionBD.pdb
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.Form1.resources
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.Properties.Resources.resources
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.exe
+C:\Users\pc\Documents\Ejercicios\TareaConexionBD\TareaConexionBD\obj\Debug\TareaConexionBD.pdb
