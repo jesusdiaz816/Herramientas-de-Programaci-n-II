@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.Login.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.Properties.Resources.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\bin\Debug\TareaGestionBD_Biblioteca.exe.config
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\bin\Debug\TareaGestionBD_Biblioteca.exe
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\bin\Debug\TareaGestionBD_Biblioteca.pdb
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.GestionLibrosForm.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.InformePrestamosForm.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.MainMenuForm.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.exe
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.pdb
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.GestionSuscriptoresForm.resources
+C:\Users\pc\Documents\Ejercicios\TareaGestionBD_Biblioteca\TareaGestionBD_Biblioteca\obj\Debug\TareaGestionBD_Biblioteca.GestionPrestamosForm.resources
