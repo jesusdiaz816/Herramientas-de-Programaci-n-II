@@ -9,7 +9,6 @@ namespace TareaGestionBD_Biblioteca
 {
     public static class DB
     {
-        // Ajusta aquí tu base de datos si no es "BibliotecaDB"
         public static readonly string ConnectionString =
             @"Server=JESUS-DIAZ\SQLEXPRESS;Database=Biblioteca;Trusted_Connection=True;";
 
@@ -19,3 +18,4 @@ namespace TareaGestionBD_Biblioteca
         }
     }
 }
+
